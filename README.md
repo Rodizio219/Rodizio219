@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rodizio219
-- 👀 I’m interested in education (teaching and learning) and how to improve our educational systems through critical thinking and problem solving. 
-- 🌱 I’m currently learning cybersecurity and how our memory works. 
+- 👀 I’m interested in Cyber Security and how to best safeguard our enviroments without limiting expression and creativity.
+- 🌱 I’m currently learning more about programming through Github Learning Lab.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/todd-hollett-54231944/
